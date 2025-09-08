@@ -1,0 +1,11 @@
+@media (width >= 500px) {
+  .container1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+.container1 {
+  display: grid;
+  background-color: royalblue;
+}
